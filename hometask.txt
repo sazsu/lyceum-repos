@@ -11,3 +11,12 @@ index 6988c8d..975e13a 100644
  You must receive some image as in demo branch
 
 
+feat: list differences of master and demo branches in hometask.txt
+Merge branch 'boots_buttons', remote-tracking branch 'origin/hat'
+Merge remote-tracking branches 'origin/boots' and 'origin/buttons' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
